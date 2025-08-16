@@ -29,7 +29,7 @@ ANTI_LINK: process.env.ANTI_LINK || "false",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/mry39g.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/0wnap9.jpg",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
     
@@ -40,7 +40,7 @@ PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "𝐗𝐓𝐑𝐄𝐌𝐄 𝐗𝐌𝐃",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "༄☥🤴🏽᪳𝗝𝐔፝֟𝐒𝚻𝚵🌹᪳𝚸፝֟𝐑𝚰𝚴𝐂𝚵™☘️᪳࿐",
+STICKER_NAME: process.env.STICKER_NAME || "༄☥🤴🏽᪳JONATHAN SHOTTA ☘️᪳࿐",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
